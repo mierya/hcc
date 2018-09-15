@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_beauty"
+            android:title="郝美美美照"/>
+        <item
+            android:id="@+id/nav_ugly"
+            android:title="郝丑丑丑照"/>
+        <item
+            android:id="@+id/nav_friend"
+            android:title="召唤李眯二小仙女"/>
+    </group>
+</menu>
